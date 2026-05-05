@@ -100,34 +100,6 @@ The objective is to:
 - Customers using **Electronic Check** have the highest churn probability :contentReference[oaicite:6]{index=6}  
 
 ---
-
-## 📷 Visualizations
-
-> ⚠️ Make sure your image names have **no spaces**
-
-### 🔹 Churn Distribution
-![Churn Distribution](./churn-distribution.png)
-
-### 🔹 Churn by Gender
-![Churn by Gender](./churn-gender.png)
-
-### 🔹 Churn by Senior Citizen
-![Churn by SeniorCitizen](./churn-senior.png)
-
-### 🔹 Tenure Analysis
-![Tenure Analysis](./tenure-analysis.png)
-
-### 🔹 Contract Analysis
-![Contract Analysis](./contract-analysis.png)
-
-### 🔹 Services Analysis
-![Services Analysis](./services-analysis.png)
-
-### 🔹 Payment Method Analysis
-![Payment Method](./payment-method.png)
-
----
-
 ## 💡 Key Insights
 
 - 📉 26.54% customers have churned  
